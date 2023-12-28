@@ -1,4 +1,5 @@
 # teo-recipes
+<a href= "https://teodominguezcs.github.io/odin-recipes/">Live Preview </a>
 This project showcases my three favorite pie recipies!
 The skills that are being used and reinforced are:
 <ul>
