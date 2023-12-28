@@ -8,4 +8,5 @@ The skills that are being used and reinforced are:
     <li>html "ol" ordered and "ul" unordered lists: in ingredients and recipes sections</li>
     <li>html "a" links: to access other recipes and home</li>
     <li>html "img" images: for images of pie</li>
+    <li>basic css styling </li>
 </ul>
