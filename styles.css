@@ -1,12 +1,28 @@
 * {
-    background-color: rgb(223, 191, 73);
     font-family: Arial, Helvetica, sans-serif;
 }
-img {
+img.homeimg {
     border: 1px solid #ddd;
-    border-radius: 50% ;
+    border-radius: 60% ;
     background: rgb(198, 117, 10);
     padding: 5px;
     width: 400;
     height: 300;
+    
+    
+}
+
+h1,h2,h3,h4 { 
+    text-align: center;
+    margin: 8px;
+    padding: 10px;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+p {
+    margin: auto 24px;
+}
+.appleimg1 {
+    padding: 50px;
+    display: inline-block;
 }
